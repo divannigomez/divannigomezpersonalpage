@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1 {text-align: center;}
+            p {text-align: center;}
+            div {text-align: center;}
+            </style>
+    </head>
+<body>
+
+<h1>Divanni Gomez's Personal Page</h1>
+<p><img src="divanni_gomez.jpg" alt="Divanni Gomez" width="100" height="120"></p>
+
+
+<p>Hello! My name is Divanni Gomez and I am a senior in the Rutgers Business School in New Brunswick.
+    I will be working fulltime as an IT Project Management Associate at Prudential after graduation. At
+    Rutgers, I am a Resident Assistant on the Livingston Campus, a Rutgers Business School Ambassador, and 
+    an Office of Information Technology Consultant. 
+</p>
+<br>
+
+<p>Here is a link to the repository structure for my chart.</p>
+<p> <a href=https://github.com/divannigomez/DB_Individual-Project>Repository Structure</a> </p>
+
+
+</body>
+</html>
